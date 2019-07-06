@@ -1,4 +1,4 @@
-# cheatsheets-ai
+# Cheatsheets
 
 Essential Cheat Sheets for deep learning and machine learning researchers
     
@@ -28,5 +28,5 @@ Essential Cheat Sheets for deep learning and machine learning researchers
   - [**Dask4**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/Dask4.png)
   - [**All Cheat Sheets(PDF)**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/All%20Cheat%20Sheets.pdf)<br>
   
-[**https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5**](https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
+
   
